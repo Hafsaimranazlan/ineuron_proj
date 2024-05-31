@@ -1,0 +1,8 @@
+pymango
+pymango[srv]
+pandas
+numpy 
+ensure
+dnspython
+pytest
+-e.
