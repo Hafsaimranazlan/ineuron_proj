@@ -7,7 +7,7 @@ dnspython
 -e.
 
 pytest  # test use cases unit or integrate testing
-tox=3.25.1    # testing enviroment
-black=22.8.0  # 
-flake8=5.0.4  #
-mypy=0.971 
+tox   # testing enviroment
+black  # 
+flake8  #
+mypy 
